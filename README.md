@@ -1,14 +1,12 @@
 # Komentár k zákonu č. 151/2010 Z. z., o zahraničnej službe
 
-Odborný komentár k slovenskému zákonu o zahraničnej službe — základnému predpisu upravujúcemu výkon zahraničnej služby Slovenskej republiky, postavenie a činnosť zastupiteľských úradov (diplomatické misie, konzulárne úrady, stále misie), služobný pomer štátnych zamestnancov vykonávajúcich štátnu službu v zahraničí, diplomatické hodnosti, ako aj náhrady výdavkov spojených s dočasným vyslaním do zahraničia. Zákon nadobudol účinnosť 1. júla 2010. Komentár pokrýva Čl. I (§ 1 – § 34, § 27a) — **56 paragrafových jednotiek**.
+Odborný komentár k slovenskému zákonu o zahraničnej službe — základnému predpisu upravujúcemu výkon zahraničnej služby Slovenskej republiky, postavenie a činnosť zastupiteľských úradov (diplomatické misie, konzulárne úrady, stále misie), služobný pomer štátnych zamestnancov vykonávajúcich štátnu službu v zahraničí, diplomatické hodnosti, ako aj náhrady výdavkov spojených s dočasným vyslaním do zahraničia. Zákon nadobudol účinnosť 1. júla 2010. Komentár pokrýva Čl. I (§ 1 – § 34) — **53 paragrafových jednotiek**; novelizačné časti Čl. II – X (menia iné zákony) nie sú predmetom tohto komentára.
 
 Konsolidované znenie k **1. 1. 2019**, zdroj [slov-lex.sk](https://www.slov-lex.sk/static/SK/ZZ/2010/151/20190101.html).
 
 ## Obsah
 
 Viz [INDEX.md](INDEX.md) — kompletný prehľad kapitol podľa systematiky zákona. Podrobný popis metódy je v [00-uvod.md](00-uvod.md).
-
-**Poznámka k systematike:** Zákon v dôsledku postupných novelizácií obsahuje dve samostatné ustanovenia označené ako § 26b a dve samostatné ustanovenia označené ako § 26c. V komentári sú odlíšené označením „(II)" pri druhom výskyte, v poradí zodpovedajúcom doslovnému zneniu konsolidovaného textu.
 
 ## Metóda
 
